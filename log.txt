@@ -1,0 +1,9 @@
+23/05/2022
+    * 242-Valid-Anagrams.py
+    * 217-Contains-Duplicate.py
+    * 217-Contains-Duplicate.py
+
+25/05/2022
+    * valid-palindrome.py
+    * Two-Sum-II-input-Array-Is-Sorted.py 
+    * 121-Best-Time-To-Buy-and-Sell-Stock.py
