@@ -7,3 +7,4 @@
     * valid-palindrome.py
     * Two-Sum-II-input-Array-Is-Sorted.py 
     * 121-Best-Time-To-Buy-and-Sell-Stock.py
+    * 20-Valid-Parentheses
