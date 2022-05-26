@@ -3,8 +3,15 @@
     * 217-Contains-Duplicate.py
     * 217-Contains-Duplicate.py
 
-25/05/2022
+24/05/2022
     * valid-palindrome.py
     * Two-Sum-II-input-Array-Is-Sorted.py 
     * 121-Best-Time-To-Buy-and-Sell-Stock.py
     * 20-Valid-Parentheses
+
+25/05/2022
+    * 20-Valid-Parentheses
+
+26/05/2022
+    * 155-Min-Stack
+
