@@ -12,3 +12,19 @@ class Solution:
             r += 1
 
         return maxP
+
+
+# second option
+def maxProfit(prices):
+    leftPointer, rightPointer = 0, 1
+    minValue = prices[0]
+    maxP = 0
+
+    while rightPointer < len(prices):
+        if prices[rightPointer] < minValue:
+            minValue = prices[rightPointer]
+            leftPointer = rightPointer
+        maxP = max(prices[rightPointer] - prices[leftPointer], maxP)
+        rightPointer += 1
+
+    return maxP

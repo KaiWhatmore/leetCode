@@ -1,31 +1,40 @@
 23/05/2022
-    * 242-Valid-Anagrams.py
-    * 217-Contains-Duplicate.py
-    * 217-Contains-Duplicate.py
+    * 242-Valid-Anagrams.py 🟢
+    * 217-Contains-Duplicate.py 🟢
+    * 217-Contains-Duplicate.py 🟢
 
 24/05/2022
-    * valid-palindrome.py
-    * Two-Sum-II-input-Array-Is-Sorted.py 
-    * 121-Best-Time-To-Buy-and-Sell-Stock.py
-    * 20-Valid-Parentheses
+    * valid-palindrome.py 🟢
+    * Two-Sum-II-input-Array-Is-Sorted.py 🟡
+    * 121-Best-Time-To-Buy-and-Sell-Stock.py 🟢
+    * 20-Valid-Parentheses 🟢
 
 25/05/2022
-    * 20-Valid-Parentheses 🤷‍♂️
+    * 20-Valid-Parentheses 🟢 🤷‍♂️ 
 
 26/05/2022
-    * 155-Min-Stack 🤷‍♂️
+    * 155-Min-Stack 🟢 🤷‍♂️
 
 07/06/2022
-    * 704-Binary-Search
-    * 206-Reverse-Linked-List-Pointers 🤷‍♂️
-    * 21 merge two sorted linked lists 🤷‍♂️
-    * 141 linked list cycle 🤷‍♂️
+    * 704-Binary-Search 🟢
+    * 206-Reverse-Linked-List-Pointers 🟢 🤷‍♂️
+    * 21 merge two sorted linked lists 🟢 🤷‍♂️
+    * 141 linked list cycle 🟢 🤷‍♂️
 
 08/06/2022
-    * 66-Plus One 🤷‍♂️
-    * 202-Happy Number 🤷‍♂️
+    * 66-Plus One 🟢 🤷‍♂️
+    * 202-Happy Number 🟢 🤷‍♂️
 
 09/06/2022
-    * 66-Plus One 🤷‍♂️
-    * 202-Happy Number 🤷‍♂️
-    * contains duplicate-hashset
+    * 66-Plus One 🟢 🤷‍♂️
+    * 202-Happy Number 🟢 🤷‍♂️
+    * 217-contains-duplicate-hashset 🟢
+
+10/06/2022
+    * 347-top-k-frequent 🟡 🤷‍♂️
+    * 659 Encode and Decode Strings 🟡 🤷‍♂️
+    * 3-Longest-Substring-Without-Repeating-Characters 🟡 🤷‍♂️ 
+       
+
+
+
