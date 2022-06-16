@@ -8,7 +8,7 @@ log:
     [#️⃣ Arrays and Hashing #️⃣] 217-Contains-Duplicate.py 🟢
     [#️⃣ Arrays and Hashing #️⃣] 217-Contains-Duplicate.py 🟢
 
-### 24/05/2022 🥞
+### 24/05/2022 
     [👆 Two Pointers 👇] valid-palindrome.py 🟢
     [👆 Two Pointers 👇] Two-Sum-II-input-Array-Is-Sorted.py 🟡
     [🪟 Sliding Window 🪟] 121-Best-Time-To-Buy-and-Sell-Stock.py 🟢
