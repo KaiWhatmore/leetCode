@@ -28,3 +28,19 @@ def maxProfit(prices):
         rightPointer += 1
 
     return maxP
+
+    
+# third attempt 
+def maxProfit(self, prices: List[int]) -> int:
+        l, r = 0,1 
+        
+        maxProfit = 0 
+        
+        while r < len(prices): 
+            difference = prices[r] - prices[l]
+            if prices[r] < prices[l]: 
+                l = r 
+            maxProfit = max(maxProfit, difference)
+            r += 1 
+        
+        return maxProfit 

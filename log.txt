@@ -7,7 +7,7 @@
     * valid-palindrome.py 🟢
     * Two-Sum-II-input-Array-Is-Sorted.py 🟡
     * 121-Best-Time-To-Buy-and-Sell-Stock.py 🟢
-    * 20-Valid-Parentheses 🟢
+    * 20-Valid-Parentheses 🟢 🤷‍♂️
 
 25/05/2022
     * 20-Valid-Parentheses 🟢 🤷‍♂️ 
@@ -34,6 +34,19 @@
     * 347-top-k-frequent 🟡 🤷‍♂️
     * 659 Encode and Decode Strings 🟡 🤷‍♂️
     * 3-Longest-Substring-Without-Repeating-Characters 🟡 🤷‍♂️ 
+
+13/06/2022
+    * 424. Longest Repeating Character Replacement 🟡 🤷‍♂️
+
+14/06/2022
+    * 15-3Sum 🟡 🤷‍♂️
+    * 11.Container With Most Water 🟡 
+    * 49 group anagrams 🟡 
+
+15/06/2022
+    * 567. Permutation in String 🟡 🤷‍♂️ (didn't code)
+    * 703. Kth Largest Element in a Stream 🟡 🤷‍♂️ (didn't code)
+    * 70-Climbing-Stairs 🟢 
        
 
 
