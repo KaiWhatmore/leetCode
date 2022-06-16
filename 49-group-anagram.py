@@ -36,5 +36,4 @@ def groupAnagrams(strs):
     return list(checker.values())
 
 
-checker = {[1, 2]: [1, 2]}
 print(checker)
