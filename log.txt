@@ -52,6 +52,11 @@
     * [🤸‍♀️ 1-D Dynamic Programming 🤸‍♀️] 746-Min-Cost-Climbing-Stairs 🟢 🤷‍♂️ (didn't code)
     * [🤑 Greedy 🤑] 53. Maximum Subarray 🟢 
     * [🤑 Greedy 🤑] 55-Jump-Game 🟡 🤷‍♂️
+
+17/06/2022
+    * [#️⃣ Arrays and Hashing #️⃣] 238.Product of Array Except Self 🟡 
+    * [#️⃣ Arrays and Hashing #️⃣] 36. Valid Sudoku 🟡 
+    
        
 
 
