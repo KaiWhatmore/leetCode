@@ -56,6 +56,14 @@
 17/06/2022
     * [#️⃣ Arrays and Hashing #️⃣] 238.Product of Array Except Self 🟡 
     * [#️⃣ Arrays and Hashing #️⃣] 36. Valid Sudoku 🟡 
+    * [#️⃣ Arrays and Hashing #️⃣] 128. Longest Consecutive Sequence 🔴 🤷‍♂️ (set explanation doesn't make sense? sorting array still passed condition...)\
+
+19/06/2022
+    * [🌲 Tree 🌲] 226-invert-binary-Tree
+    * [🌲 Tree 🌲] 104-max-depth-of-binary-Tree-BFS 
+    * [🌲 Tree 🌲] 104-max-depth-of-binary-Tree-DFS
+
+
     
        
 

@@ -26,4 +26,3 @@ class Solution:
             if checkAnagramS[valueS] != checkAnagramT[valueS]:
                 return False
         return True
-          
