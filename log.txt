@@ -66,6 +66,9 @@
 20/06/2022
     * [⏮ BackTracking ⏮] 79-Word-Search 🤷‍♂️ 
     * [⏮ BackTracking ⏮] 39-Combination-Sum 🤷‍♂️
+    * [🪟 Sliding Window 🪟] 3-Longest-Substring-Without-Repeating-Characters 🟡 
+    * [🪟 Sliding Window 🪟] 424. Longest Repeating Character Replacement 🟡 🤷‍♂️
+
 
 
     

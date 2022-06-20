@@ -1,37 +1,19 @@
-def exist(board, word):
-    ROWS, COLS = len(board), len(board[0])
-    path = set()
+def characterReplacement(s, k):
 
-    def dfs(r, c, i):
-        if i == len(word):
-            return True
-        if (
-            r < 0
-            or c < 0
-            or r >= ROWS
-            or c >= COLS
-            or word[i] != board[r][c]
-            or (r, c) in path
-        ):
-            return False
-        path.add((r, c))
-        res = (
-            dfs(r + 1, c, i + 1)
-            or dfs(r - 1, c, i + 1)
-            or dfs(r, c + 1, i + 1)
-            or dfs(r, c - 1, i + 1)
-        )
-        path.remove((r, c))
-        return res
+    letterChecker = {}
+    l = 0
+    result = 0
 
-    for r in range(ROWS):
-        for c in range(COLS):
-            if dfs(r, c, 0):
-                return True
-    return False
+    for r in range(len(s)):
+        letterChecker[s[r]] = letterChecker.get(s[r], 0) + 1
+
+        if (r - l + 1) - max(letterChecker.values()) > k:
+            letterChecker[s[l]] -= 1
+            l += 1
+
+        result = max(result, r - l + 1)
+
+    return result
 
 
-board = [["A", "B", "C", "E"], ["S", "F", "C", "S"], ["A", "D", "E", "E"]]
-word = "ABCCED"
-
-print(exist(board, word))
+print(characterReplacement("AABABBA", 1))
