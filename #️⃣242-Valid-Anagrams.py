@@ -1,28 +1,22 @@
-class Solution:
-    def isAnagram(self, s: str, t: str) -> bool:
-        checkAnagramS = {}
-        checkAnagramT = {}
+def isAnagram(s, t):
+    checkAnagramS = {}
+    checkAnagramT = {}
 
-        if len(s) != len(t):
+    if len(s) != len(t):
+        return False
+
+    for charS in s:
+        checkAnagramS[charS] = checkAnagramS.get(charS, 0) + 1
+
+    for charT in t:
+        if charT not in checkAnagramS:
             return False
+        checkAnagramT[charT] = checkAnagramT.get(charT, 0) + 1
 
-        for letterS in s:
-            if letterS not in checkAnagramS:
-                checkAnagramS[letterS] = 1
-            else:
-                checkAnagramS[letterS] += 1
+    for valueS in checkAnagramS:
+        if checkAnagramS[valueS] != checkAnagramT[valueS]:
+            return False
+    return True
 
-        for letterT in t:
-            if letterT not in checkAnagramT:
-                checkAnagramT[letterT] = 1
-            else:
-                checkAnagramT[letterT] += 1
 
-        for valueS in checkAnagramS.keys():
-            if valueS not in checkAnagramT.keys():
-                return False
-
-        for valueS in checkAnagramS:
-            if checkAnagramS[valueS] != checkAnagramT[valueS]:
-                return False
-        return True
+print(isAnagram("cat", "tca"))
