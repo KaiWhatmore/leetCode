@@ -10,14 +10,8 @@ def strStr(self, haystack: str, needle: str) -> int:
     if needle.strip() == "":
         return ""
 
-    needleCheck = list(needle)
-    count = 0
-    for i, char in enumerate(haystack):
-        if char in needleCheck:
-            count += 1
-            needleCheck.remove(char)
-
-        if len(needleCheck) == 0:
-            return len(haystack) - count - 1
+    for i in range(haystack):
+        if haystack[i : i + len(needle)] == needle:
+            return i
 
     return -1
