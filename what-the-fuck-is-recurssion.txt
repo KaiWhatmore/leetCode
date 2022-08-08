@@ -1,0 +1,13 @@
+exercises: 
+    1. reverse string (list) 
+    2. Fibonacci
+    3. sum of ints preceeding it 
+    4. Merge two linked lists
+    5. find max paths from (0,0) to bottom right 
+    6. combination sum 
+    7. permutations 
+    8. coin change 
+    9. subsets 
+    10. Flood Fill
+    11. Power of Two 
+    

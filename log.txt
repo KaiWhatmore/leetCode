@@ -1,0 +1,309 @@
+[#️⃣ Arrays and Hashing #️⃣]
+[👆 Two Pointers 👇]
+[🪟 Sliding Window 🪟]
+[🥞 Stack 🥞]
+[🔟 Binary Search 🔟]
+[🧮 Math and Geometry 🧮]
+[🖇 Linked List 🖇]
+[📈📉 1-D Dynamic Programming 📈📉]
+[🎹 Intervals 🎹]
+[🤑 Greedy 🤑]
+[🙋 Heap, Priority, Queue 🙋]
+[🌲 Tree 🌲]
+
+
+
+23/05/2022 (3)
+    * 🟢    #️⃣ 242-Valid-Anagrams.py 
+    * 🟢    #️⃣ 217-Contains-Duplicate.py 
+    * 🟢    #️⃣ 217-Contains-Duplicate.py 
+
+24/05/2022 (4)
+    * 🟢    👆👇 valid-palindrome.py 
+    * 🟡    👆👇 Two-Sum-II-input-Array-Is-Sorted.py 
+    * 🟢    🪟 121-Best-Time-To-Buy-and-Sell-Stock.py 
+    * 🟢 🤷‍♂️ 🥞 20-Valid-Parentheses 
+
+25/05/2022 (1)
+    * 🟢 🤷‍♂️ 🥞 20-Valid-Parentheses 
+
+26/05/2022 (1)
+    * 🟢 🤷‍♂️ 🥞 155-Min-Stack 
+
+07/06/2022 (4)
+    * 🟢    🔟 704-Binary-Search 
+    * 🟢 🤷‍♂️  🖇 206-Reverse-Linked-List-Pointers 
+    * 🟢 🤷‍♂️  🖇 21 merge two sorted linked lists 
+    * 🟢 🤷‍♂️  🖇 141 linked list cycle 
+
+08/06/2022 (2)
+    * 🟢 🤷‍♂️  🧮 66-Plus One 
+    * 🟢 🤷‍♂️  🧮 202-Happy Number 
+
+09/06/2022 (3)
+    * 🟢 🤷‍♂️  🧮 66-Plus One 
+    * 🟢 🤷‍♂️  🧮 202-Happy Number 
+    * 🟢     #️⃣  217-contains-duplicate-hashset 
+
+10/06/2022 (3)
+    * 🟡 🤷‍♂️ #️⃣ 347-top-k-frequent 
+    * 
+    🟡 🤷‍♂️ #️⃣ 659 Encode and Decode Strings 
+    * 🟡 🤷‍♂️ 🪟 3-Longest-Substring-Without-Repeating-Characters 
+
+13/06/2022 (1)
+    * 🟡 🤷‍♂️ 🪟 424. Longest Repeating Character Replacement 
+
+14/06/2022 (3)
+    * 🟡 🤷‍♂️ 👆👇 15-3Sum 
+    * 🟡    👆👇 11.Container With Most Water 
+    * 🟡     #️⃣ 49 group anagrams 
+
+15/06/2022 (3)
+    * 🟡 🤷‍♂️ (NFI) 🪟 567. Permutation in String 
+    * 🟡 🤷‍♂️ (NFI) 🙋 703. Kth Largest Element in a Stream 
+    * 🟢          📈📉  70-Climbing-Stairs 
+
+16/06/2022 (3)
+    * 🟢 🤷‍♂️ (NFI) 📈📉 746-Min-Cost-Climbing-Stairs 
+    * 🟢          🤑 53. Maximum Subarray 
+    * 🟡 🤷‍♂️       🤑 55-Jump-Game 
+
+17/06/2022 (3)
+    * 🟡          #️⃣ 238.Product of Array Except Self 
+    * 🟡          #️⃣ 36. Valid Sudoku 
+    * 🔴 🤷‍♂️ (NFI) #️⃣ 128. Longest Consecutive Sequence 
+
+19/06/2022 (4)
+    * 🟢          🌲 226-invert-binary-Tree 
+    * 🟢          🌲 104-max-depth-of-binary-Tree-BFS 
+    * 🟢          🌲 104-max-depth-of-binary-Tree-DFS 
+    * 🟢          🎹 920-Meeting-Rooms
+
+20/06/2022 (10)
+    * 🟡 🤷‍♂️       ⏮ 79-Word-Search 
+    * 🟡 🤷‍♂️       ⏮ 39-Combination-Sum (NFI) 
+    * 🟡          🪟 3-Longest-Substring-Without-Repeating-Characters 
+    * 🟡 🤷‍♂️       🪟 424. Longest Repeating Character Replacement 
+    * 🔴 🤷‍♂️ (NFI) 🪟 76. Minimum Window Substring 
+    * 🟢          #️⃣ Intersection of Two Arrays II 
+    * 🟢 🤷‍♂️       👆👇 283. Move Zeroes 
+    * 🟡 🤷‍♂️ (NFI) 📈📉 91. Decode Ways 
+    * 🟡 🤷‍♂️ (NFI) 🧮 73. Set Matrix Zeroes 
+    * 🟡 🤷‍♂️ (NFI) 🧮 48. Rotate Image 
+
+
+21/06/2022 (6)
+    * 🔴 🤷‍♂️     🪟 76. Minimum Window Substring 
+    * 🟡 🤷‍♂️     🪟 567. Permutation in String 
+    * 🟡 🤷‍♂️🤷‍♂️🤷‍♂️ 📈📉 91. Decode Ways
+    * 🟡 🤷‍♂️     📈📉 5. Longest Palindromic Substring
+    * 🟡       📈📉 647-Palindromic-Substrings
+    * 🟡 🤷‍♂️     🎹  56. Merge Intervals
+
+22/06/2022 (3)
+    * 🟡 #️⃣ secret-santa.py
+    * 🟢    implement-strstrs()
+    * 🟢    longest-common-prefix
+
+28/06/2022 (4)
+    * 🟢          📈📉 746-Min-Cost-Climbing-Stairs.py 
+    * 🟡 🤷‍♂️ (NFI) 📈📉 198-House-Robber.py 
+    * 🟡 🤷‍♂️ (NFI) 📈📉 300. Longest Increasing Subsequence
+    * 🟡 🤷‍♂️ (NFI) 📈📉 322. Coin Change (NO CODE)
+
+04/07/2022 (3)
+    * 🟡 🤷‍♂️ (NFI) 📈📉 322. Coin Change (NO CODE)
+    * 🟡 🤷‍♂️ (NFI) ⏮ 78. Subsets
+    * 🟡 🤷‍♂️ (NFI) ⏮ 33. Permutations 
+
+
+05/07/2022 (9)
+    * 🟢 Implement strstrs()
+    * 🟢 Longest Common Prefix
+    * 🟢 Move Zeroes
+    * 🟡 Top K Frequent Elements
+    * 🟡 Product of Array Except Self 🤷‍♂️
+    * 🟡 Product of Array Except Self 🤷‍♂️
+    * 🟡 Valid Sudoku
+    * 🟡 3Sum 
+    * 🟡 3Sum 
+
+06/07/2022 (3)
+    * 🟡 Product of Array Except Self
+    * 🟡 Encode and Decode Strings  
+    * 🟡 Encode and Decode Strings  
+
+07/07/22 (3)
+    * 🟡 Encode and Decode Strings
+    * 🔴 Longest Consecutive Sequence 
+    * 🔴 Longest Consecutive Sequence 
+    * 🟡 3Sum 
+    * 🟡 3Sum 
+    * 🟡 Container With Most Water 
+
+8/7/22 (3)
+    * 🟡 Longest Substring Without Repeating Characters
+    * 🟡 Longest Repeating Character Replacement
+    * 🟡 Permutation in String
+
+9/7/22 (3)
+    * 🟡 Permutation in String
+    * 🔴 Minimum Window Substring 
+    * 🔴 Minimum Window Substring 
+
+10/7/22 (5)
+    * 🔴 Minimum Window Substring 
+    * 🟢 121-Best-Time-To-Buy-and-Sell-Stock.py 
+    * 🟡 Longest Substring Without Repeating Characters
+    * 🟡 Longest Repeating Character Replacement
+    * 🟡 Permutation in String
+
+11/7/22 (9)
+    * 🟢 Valid Anagram
+    * 🟢 Contains Duplicate
+    * 🟢 Two Sum
+    * 🟡 Group Anagrams
+    * 🟡 Top K Frequent Elements
+    * 🟡 Product of Array Except Self
+    * 🟡 Valid Sudoku
+    * 🟡 Encode and Decode Strings
+    * 🟡 Longest Consecutive Sequence 
+
+12/7/22 (6)
+    * 🟢 Valid Palindrome
+    * 🟢 Move Zeroes
+    * 🟡 Two Sum II
+    * 🟡 3Sum
+    * 🟡 Container with Most Water
+    * 🔴 Trapping Rain Water
+
+13/7/22 (3)
+    * 🔴 Sliding Window Maximum
+    * 🟢 Valid Parentheses
+    * 🟢 Reverse-Linked-List-Pointers 
+
+14/7/22 (12)
+    * 🔴 Sliding Window Maximum
+    * 🔴 Sliding Window Maximum
+    * 🟢 Valid Parentheses
+    * 🟢 Valid Parentheses
+    * 🔴 Trapping Rain Water
+    * 🟢 Reverse-Linked-List-Pointers 
+    * 🟢 Merge Two Linked Lists
+    * 🟡 Reorder List
+    * 🟢 Linked List Cycle
+    * 🟢 Invert Binary Tree
+    * 🟢 Diameter of a Binary Tree
+    * 🟢 Maximum Depth of Binary Tree
+
+15/7/22 (13)
+    * 🟢 Reverse-Linked-List-Pointers 
+    * 🟢 Merge Two Linked Lists
+    * 🟡 Reorder List
+    * 🟢 Linked List Cycle
+    * 🟢 Invert Binary Tree
+    * 🟢 Diameter of a Binary Tree
+    * 🟢 Maximum Depth of Binary Tree
+    * 🟢 Valid Parentheses
+    * 🔴 Sliding Window Maximum
+    * 🔴 Trapping Rain Water
+    * 🟢 Balanced Binary Tree	
+    * 🟢 Same Tree	
+    * 🟢 Subtree of Another Tree
+
+16/7/22 (6)
+    * 🟢 Invert Binary Tree
+    * 🟢 Maximum Depth of Binary Tree
+    * 🟢 Diameter of a Binary Tree
+    * 🟢 Balanced Binary Tree	
+    * 🟢 Same Tree	
+    * 🟢 Subtree of Another Tree
+
+17/7/22 (15)
+    * 🟢 Invert Binary Tree
+    * 🟢 Maximum Depth of Binary Tree
+    * 🟢 Diameter of a Binary Tree
+    * 🟢 Balanced Binary Tree	
+    * 🟢 Same Tree	
+    * 🟢 Subtree of Another Tree
+    * 🟢 Reverse Linked List	
+    * 🟢 Merge Two Linked Lists	
+    * 🟢 Reorder List
+    * 🔴 Minimum Window Substring	
+    * 🔴 Sliding Window Maximum
+    * 🔴 Trapping Rain Water
+    * 🟡 Subsets
+    * 🟡 Permutations 
+    * 🟡 Combination Sum
+
+18/7/22 (19)
+    * 🟡 Subsets	
+    * 🟡 Combination Sum	
+    * 🟡 Permutations
+    * 🟢 Two Sum
+    * 🟢 Valid Parentheses
+    * 🟢 Merge Two Sorted Lists
+    * 🟢 Best Time to Buy and Sell Stock
+    * 🟢 Valid Palindrome
+    * 🟢 Invert Binary Tree
+    * 🟢 Valid Anagram
+    * 🟢 Binary Search
+    * 🟢 Flood Fill
+    * 🟢 Maximum Subarray
+    * 🟢 Lowest Common Ancestor of a Binary Search Tree
+    * 🟢 Balanced Binary Tree
+    * 🟢 Linked List Cycle
+    * 🟢 First Bad Version
+    * 🟢 Ransom Note
+    * 🟢 Climbing Stairs
+    
+19/7/22
+    * 🟢 Flood Fill
+    * 🟢 Implement Queue using Stacks
+    * 🟢 Longest Palindrome
+    * 🟢 Reverse Linked List
+    * 🟢 Majority Element
+    * 🟢 Diameter of Binary Tree 
+    * 🟢 Middle of the Linked List
+    * 🟢 Maximum Depth of Binary Tree
+    * 🟢 Contains Duplicate
+    * 🟢 Roman to Integer
+    * 🟢 Backspace String Compare
+
+20/7/22
+    * 🟡 Insert Intervals
+
+21/7/22
+    * 🟡 Insert Intervals
+    * 🟡 Merge Intervals 
+    * 🟢 Meeting-Rooms 
+    * 
+
+22/7/22
+    * 🟡 Longest Substring Without Repeating Characters
+    * 🟡 3Sum -> needs work 
+    * 🟡 K Closest Points to Origin
+    * 🟡 Kth Largest Element in a Stream
+    * 🟡 Binary Tree Level Order Traversal
+
+25/7/22 
+    * 🟡 Evaluate Reverse Polish Notation
+    * 🟡 Product of Array Except Self
+
+27/7/22
+    * 🟡 Min Stack
+    * 🟡 Binary Tree Level Order Reversal 
+
+28/7/22 
+    * 🟢 Same Tree
+    * 🟢 Binary Tree PreOrder Traversal 
+    * 🟢 Binary Tree Inorder Traversal
+    * 🟢 Binary Tree PostOrder Traversal
+    * 🟢 Move Zeroes 
+    * 🟢 Merge Two Sorted Lists 
+    * 🟢 Fibonacci Number 
+    * 🟢 Power of Two 
+    * 🟡 Maximum Subarray
+    * 🟢 Reverse string (array) (recursion)
+    * 🟢 Search Insert Number 

@@ -16,3 +16,23 @@ class Solution:
 
                 if len(result) == k:
                     return result
+
+
+# Second Attempt
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        checker = {}
+        result = []
+
+        for num in nums:
+            checker[num] = checker.get(num, 0) + 1
+
+        frequency_arr = [[] for i in range(max(checker.values()) + 1)]
+
+        for num, count in checker.items():
+            frequency_arr[count].append(num)
+
+        for i in range(len(frequency_arr) - 1, -1, -1):
+            if len(result) == k:
+                return result
+            result.extend(frequency_arr[i])
